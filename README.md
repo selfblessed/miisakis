@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm miisaki!</h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A64EFF&center=true&vCenter=true&width=435&lines=Rustace" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=300&color=A64EFF&center=true&vCenter=true&width=435&lines=Programming" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
