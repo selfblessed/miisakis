@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A64EFF&center=true&vCenter=true&width=400&lines=programming;cookie;hacker;obfuscated%3F;arch;mm....+linux.." alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=programming;cookie;hacker;obfuscated%3F;arch;mm....+linux.." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
