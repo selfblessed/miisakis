@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi, I'm miisaki!</h1>
 
+
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=300&color=A64EFF&center=true&vCenter=true&width=435&lines=Programming" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A64EFF&center=true&vCenter=true&width=400&lines=programming;cookie;hacker;obfuscated%3F;arch;mm....+linux.." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
@@ -27,7 +28,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <!-- You can write your own description here -->
