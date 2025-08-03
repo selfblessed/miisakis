@@ -1,36 +1,30 @@
-# Hi, I'm miisaki!
+<h1 align="center">Hi, I'm miisaki!</h1>
 
-## Low-Level Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Low-level+developer;Systems+programming+enthusiast;Rustacean+and+C+++hacker&center=true&width=500&height=40&font=Fira%20Code&color=AE81FF&pause=1000&vCenter=true" />
+</p>
 
-🚀 Systems Programming  • Embedded Development
-
----
-
-⚡️ **Stack**
-
-<p align="left">
-  <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
+<p align="center">
+  🛠 Low-level разработчик • 🧠 Системное программирование • 🧬 Люблю C, C++ и Rust • ☕ Иногда Java
 </p>
 
 ---
 
-💡 **About Me**
+## ⚡ Мой стек
 
-*   Passionate about low-level programming and understanding how things work under the hood.
-*   Exploring the capabilities of Rust for building efficient and reliable systems software.
-*   Interested in topics such as operating systems, compilers, and embedded systems.
-*   Always eager to learn new technologies and contribute to challenging projects.
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
+## 🚀 О себе
+
+💻 Пишу под Linux. Интересуюсь системами, архитектурой, безопасностью.  
+🔧 Люблю работать с памятью, стеком, бинарными утилитами.  
+🔥 Хочу писать реальные инструменты, понимать машины и быть настоящим хакером.  
