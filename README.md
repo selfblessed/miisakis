@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🛠 Low-level developer • 🧠 Systems programming • 🐚 Passionate about C, C++, Rust • ☕ Sometimes Java
+  🛠 Low-level developer • 🧠 Systems programming • goth
 </p>
 
 <h2 align="center">Stack</h2>
