@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download.gif" alt="miisaki banner" />
+  <img src="cat.gif" alt="miisaki banner" />
 </p>
 
 <h1 align="center">Hi, I'm miisaki!</h1>
