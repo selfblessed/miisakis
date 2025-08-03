@@ -1,7 +1,7 @@
 <p align="center">
   <img src="cat.gif" alt="miisaki banner" />
 </p>
-
+---
 <h1 align="center">Hi, I'm miisaki!</h1>
 
 
@@ -12,8 +12,6 @@
 <p align="center">
   🛠 Low-level developer • 🧠 Systems programming • 🐚 Passionate about C, C++, Rust • ☕ Sometimes Java
 </p>
-
----
 
 <h2 align="center">Stack</h2>
 
@@ -26,10 +24,10 @@
   <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=white" />
 </p>
 
----
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <!-- You can write your own description here -->
+  Hi, I'm interested in low level programming, I love anything related to systems, and similar. I'm sitting on arch linux, I love customizing it and figuring it out, and I also write applications for my personal use.
 </p>
+---
