@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="cat.gif" alt="miisaki banner" />
+  <img src="cat.gif" alt="selfblessed banner" />
 </p>
 
-<h1 align="center">Hi, I'm miisaki!</h1>
+<h1 align="center">Hi, I'm selfblessed!</h1>
 
 
 <p align="center">
