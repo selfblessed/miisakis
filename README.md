@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cat.gif" alt="selfblessed banner" />
+  <img src="lain_back.gif" alt="selfblessed banner" />
 </p>
 
 <h1 align="center">Hi, I'm selfblessed!</h1>
